@@ -42,4 +42,36 @@ class CfgUnitInsignia
 		material = "";	// .rvmat path
 		textureVehicle = "";													// Does nothing, reserved for future use
 	};
+	class Noob_Tube
+	{
+		displayName = "Noob Tube";								// Name displayed in Arsenal
+		author = "Phantom";											// Author displayed in Arsenal
+		texture = "icon\Noob_Tube_256.paa";			// Image path
+		material = "";	// .rvmat path
+		textureVehicle = "";													// Does nothing, reserved for future use
+	};
+	class Kitsune
+	{
+		displayName = "Kitsune";								// Name displayed in Arsenal
+		author = "Phantom";											// Author displayed in Arsenal
+		texture = "icon\Kitsune_256.paa";			// Image path
+		material = "";	// .rvmat path
+		textureVehicle = "";													// Does nothing, reserved for future use
+	};
+	class Quiet
+	{
+		displayName = "Shhhh Quiet";								// Name displayed in Arsenal
+		author = "Phantom";											// Author displayed in Arsenal
+		texture = "icon\Quiet_256.paa";			// Image path
+		material = "";	// .rvmat path
+		textureVehicle = "";													// Does nothing, reserved for future use
+	};
+	class Wolf
+	{
+		displayName = "GasMask Wolf";								// Name displayed in Arsenal
+		author = "Phantom";											// Author displayed in Arsenal
+		texture = "icon\WolfGas_256.paa";			// Image path
+		material = "";	// .rvmat path
+		textureVehicle = "";													// Does nothing, reserved for future use
+	};
 };
