@@ -18,7 +18,7 @@ class CfgVehicles
 {
 	class MetAVehicles
 	{
-		hiddenSelections[] = { "icon\MetA_256.paa", "insignia" }; // insignia selection has to be present
+		hiddenSelections[] = { "\Insignias\icon\MetA_256.paa", "insignia" }; // insignia selection has to be present
 	};
 };
 
@@ -29,16 +29,16 @@ class CfgUnitInsignia
 	{
 		displayName = "MetA";								// Name displayed in Arsenal
 		author = "PhantomXMetA";											// Author displayed in Arsenal
-		texture = "icon\MetA_256.paa";			// Image path
+		texture = "\Insignias\icon\MetA_256.paa";			// Image path
 		material = "";	// .rvmat path
 		textureVehicle = "";													// Does nothing, reserved for future use
 	};
-    
+
     class Ghost
 	{
 		displayName = "Ghost";								// Name displayed in Arsenal
 		author = "Phantom";											// Author displayed in Arsenal
-		texture = "icon\Ghost.paa";			// Image path
+		texture = "\Insignias\icon\Ghost.paa";			// Image path
 		material = "";	// .rvmat path
 		textureVehicle = "";													// Does nothing, reserved for future use
 	};
@@ -46,7 +46,7 @@ class CfgUnitInsignia
 	{
 		displayName = "Noob Tube";								// Name displayed in Arsenal
 		author = "Phantom";											// Author displayed in Arsenal
-		texture = "icon\Noob_Tube_256.paa";			// Image path
+		texture = "\Insignias\icon\Noob_Tube_256.paa";			// Image path
 		material = "";	// .rvmat path
 		textureVehicle = "";													// Does nothing, reserved for future use
 	};
@@ -54,7 +54,7 @@ class CfgUnitInsignia
 	{
 		displayName = "Kitsune";								// Name displayed in Arsenal
 		author = "Phantom";											// Author displayed in Arsenal
-		texture = "icon\Kitsune_256.paa";			// Image path
+		texture = "\Insignias\icon\Kitsune_256.paa";			// Image path
 		material = "";	// .rvmat path
 		textureVehicle = "";													// Does nothing, reserved for future use
 	};
@@ -62,7 +62,7 @@ class CfgUnitInsignia
 	{
 		displayName = "Shhhh Quiet";								// Name displayed in Arsenal
 		author = "Phantom";											// Author displayed in Arsenal
-		texture = "icon\Quiet_256.paa";			// Image path
+		texture = "\Insignias\icon\Quiet_256.paa";			// Image path
 		material = "";	// .rvmat path
 		textureVehicle = "";													// Does nothing, reserved for future use
 	};
@@ -70,7 +70,7 @@ class CfgUnitInsignia
 	{
 		displayName = "GasMask Wolf";								// Name displayed in Arsenal
 		author = "Phantom";											// Author displayed in Arsenal
-		texture = "icon\WolfGas_256.paa";			// Image path
+		texture = "\Insignias\icon\WolfGas_256.paa";			// Image path
 		material = "";	// .rvmat path
 		textureVehicle = "";													// Does nothing, reserved for future use
 	};
